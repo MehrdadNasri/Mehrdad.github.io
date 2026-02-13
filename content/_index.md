@@ -14,7 +14,7 @@ sections:
     content:
       # Choose a user profile to display (a folder name within `content/authors/`)
       username: me
-      text: ''
+      text: 'Graduate Research Assistant and PhD candidate in Transportation Engineering at the University of Washington'
       # Show a call-to-action button under your biography? (optional)
       button:
         text: Download CV
@@ -39,14 +39,19 @@ sections:
         shape: circle # Options: circle (default), square, rounded
   - block: markdown
     content:
-      title: '📚 My Research'
+      title: '📚 About Me'
       subtitle: ''
       text: |-
-        Use this area to speak to your mission. I'm a research scientist in the Moonshot team at DeepMind. I blog about machine learning, deep learning, and moonshots.
+        I am a PhD student in Transportation Engineering at the University of Washington and a Research Assistant at the Smart Transportation Applications and Research (STAR) Laboratory in the Department of Civil and Environmental Engineering. My research lies at the intersection of **transportation safety**, **intelligent transportation systems**, and **data-driven decision making**, with a strong emphasis on integrating **advanced statistical modeling**, **Machine Learning**, and **Artificial Intelligence** with real-world transportation data.
 
-        I apply a range of qualitative and quantitative methods to comprehensively investigate the role of science and technology in the economy.
+      My work focuses on extracting actionable safety and mobility insights from heterogeneous data sources, including LiDAR, dashcam and surveillance videos, street-view imagery, smart sensors, loop detectors, connected vehicle data, and emerging next-generation sensing technologies. I develop and apply methods spanning discrete choice modeling, hierarchical and count regression models, machine learning, deep learning, and computer vision for detection, tracking, segmentation, and trajectory prediction.
 
-        Please reach out to collaborate 😃
+      At the **STAR Lab**, I contribute to federally and state-funded research projects in traffic safety and operations. My work includes the development of LLM-enabled digital twin systems for traffic safety management, integration of trajectory-based perception outputs with microscopic traffic simulation, and the design of surrogate safety measure analytics and visualization pipelines to support scenario-based safety evaluation and decision support.
+
+      In parallel with my research, I have served as an instructor for graduate-level Traffic Systems Operations at the University of Washington, where I designed course materials, delivered lectures, and mentored students. Prior to my doctoral studies, I worked as a transportation consultant and project manager on large-scale multimodal planning, logistics, and traffic safety projects, gaining extensive experience in applied modeling and stakeholder-driven transportation analysis.
+    Please reach out to collaborate 😃
+
+        
     design:
       columns: '1'
   - block: collection
